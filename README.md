@@ -5,7 +5,7 @@ Collection of popular and reproducible works of cloud detection and removal.
 # Cloud Detection
 
 ## Benchmark dataset
-* 38-Cloud[https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset]
+* [38-Cloud](https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset)
 * 95-Cloud[https://github.com/SorourMo/95-Cloud-An-Extension-to-38-Cloud-Dataset]
 
 ## Related Papers
