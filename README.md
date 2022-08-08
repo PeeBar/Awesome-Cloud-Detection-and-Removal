@@ -29,6 +29,7 @@ Collection of popular and reproducible works of cloud detection and removal.
 |:---:|:---:|:---:|:---:|
 |CVPR|2016|[Removing Clouds and Recovering Ground Observations in Satellite Image Sequences via Temporally Contiguous Robust Matrix Completion](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Removing_Clouds_and_CVPR_2016_paper.html)|[Unofficial](https://github.com/AlexandreSev/Patch-Match)|
 |IEEE TGRS|2016|[Cloud Removal Based on Sparse Representation via Multitemporal Dictionary Learning](https://ieeexplore.ieee.org/abstract/document/7383295)|[Unofficial](https://github.com/NicolasBizzozzero/Inpainting)|
+|CVPRW|2017|[Filmy Cloud Removal on Satellite Imagery With Multispectral Conditional Generative Adversarial Nets](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w18/html/Enomoto_Filmy_Cloud_Removal_CVPR_2017_paper.html)|[Code](https://github.com/enomotokenji/mcgan-cvprw2017-pytorch)|
 |IGARSS|2018|[Cloud-Gan: Cloud Removal for Sentinel-2 Imagery Using a Cyclic Consistent Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8519033)|-|
 |Arxiv|2020|[Cloud Removal for Remote Sensing Imagery via Spatial Attention Generative Adversarial Network](https://arxiv.org/abs/2009.13015)|[Code](https://github.com/Penn000/SpA-GAN_for_cloud_removal)|
 |WACV|2020|[Cloud Removal in Satellite Images Using Spatiotemporal Generative Models](https://arxiv.org/abs/1912.06838)|[Code](https://github.com/ermongroup/STGAN)|
