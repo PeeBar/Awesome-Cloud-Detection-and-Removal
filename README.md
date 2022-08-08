@@ -11,6 +11,7 @@ Collection of popular and reproducible works of cloud detection and removal.
 ## Related Papers
 |Pub|Year|Title|Code|
 |:---:|:---:|:---:|:---:|
+|ICCV|2019|[Generative Adversarial Training for Weakly Supervised Cloud Matting](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zou_Generative_Adversarial_Training_for_Weakly_Supervised_Cloud_Matting_ICCV_2019_paper.pdf)|[Code](https://github.com/flyakon/Pytorch-CloudMattingGAN)|
 |IGARSS|2019|[Cloud-Net: An End-To-End Cloud Detection Algorithm for Landsat 8 Imagery](https://ieeexplore.ieee.org/document/8898776)|[Code](https://github.com/SorourMo/Cloud-Net-A-semantic-segmentation-CNN-for-cloud-detection)|
 |RSE|2019|[A cloud detection algorithm for satellite imagery based on deep learning](https://www.sciencedirect.com/science/article/pii/S0034425719301294)|[Code](https://github.com/JacobJeppesen/RS-Net)|
 |IEEE JSTARS|2021|[Cloud and Cloud Shadow Segmentation for Remote Sensing Imagery Via Filtered Jaccard Loss Function and Parametric Augmentation](https://ieeexplore.ieee.org/document/9394710)|[-](https://github.com/SorourMo/95-Cloud-An-Extension-to-38-Cloud-Dataset)|
