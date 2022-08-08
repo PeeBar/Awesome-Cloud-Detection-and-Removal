@@ -38,4 +38,4 @@ Collection of popular and reproducible works of cloud detection and removal.
 |IEEE TGRS|2022|[A Unified Framework of Cloud Detection and Removal Based on Low-Rank and Group Sparse Regularizations for Multitemporal Multispectral Images](https://ieeexplore.ieee.org/document/9716079)|-|
 |IEEE GRSL|2022|[Cloud Removal in Optical Remote Sensing Imagery Using Multiscale Distortion-Aware Networks](https://ieeexplore.ieee.org/document/9686746)|-|
 |IEEE GRSL|2022|[Cloud Removal Using Multimodal GAN With Adversarial Consistency Loss](https://ieeexplore.ieee.org/document/9481173)|-|
-|Remote Sensing|2022|[Deep Internal Learning for Inpainting of Cloud-Affected Regions in Satellite Imagery](https://www.mdpi.com/2072-4292/14/6/1342)|[Code](https://github.com/cidcom/satellite-cloud-removal-dip)|
+|RS|2022|[Deep Internal Learning for Inpainting of Cloud-Affected Regions in Satellite Imagery](https://www.mdpi.com/2072-4292/14/6/1342)|[Code](https://github.com/cidcom/satellite-cloud-removal-dip)|
