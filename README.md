@@ -33,6 +33,8 @@ Collection of popular and reproducible works of cloud detection and removal.
 |WACV|2020|[Cloud Removal in Satellite Images Using Spatiotemporal Generative Models](https://arxiv.org/abs/1912.06838)|[Code](https://github.com/ermongroup/STGAN)|
 |IEEE GRSL|2020|[Cloud-Aware Generative Network: Removing Cloud From Optical Remote Sensing Images](https://ieeexplore.ieee.org/document/8884095)|-|
 |IEEE TGRS|2020|[Single Image Cloud Removal Using U-Net and Generative Adversarial Networks](https://ieeexplore.ieee.org/document/9224941)|[Unofficial](https://github.com/Yonv1943/CloudRemoval)|
+|RSE|2020|[
+Accurate cloud detection in high-resolution remote sensing imagery by weakly supervised deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304156?via%3Dihub)|[Project](https://skyearth.org/publication/project/WDCD/)|
 |IGARSS|2021|[A Blind Cloud/Shadow Removal Strategy for Multi-Temporal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9554515)|-|
 |IEEE TGRS|2022|[Thick Cloud Removal in Optical Remote Sensing Images Using a Texture Complexity Guided Self-Paced Learning Method](https://ieeexplore.ieee.org/abstract/document/9730910)|-|
 |IEEE TGRS|2022|[A Unified Framework of Cloud Detection and Removal Based on Low-Rank and Group Sparse Regularizations for Multitemporal Multispectral Images](https://ieeexplore.ieee.org/document/9716079)|-|
