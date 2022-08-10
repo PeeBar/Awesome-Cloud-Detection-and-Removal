@@ -38,6 +38,7 @@ Collection of popular and reproducible works of cloud detection and removal.
 |IEEE TGRS|2020|[Single Image Cloud Removal Using U-Net and Generative Adversarial Networks](https://ieeexplore.ieee.org/document/9224941)|[Unofficial](https://github.com/Yonv1943/CloudRemoval)|
 |RSE|2020|[Accurate cloud detection in high-resolution remote sensing imagery by weakly supervised deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304156?via%3Dihub)|[Project](https://skyearth.org/publication/project/WDCD/)|
 |ISPRS|2020|[Cloud removal in Sentinel-2 imagery using a deep residual neural network and SAR-optical data fusion](https://www.sciencedirect.com/science/article/pii/S0924271620301398?via%3Dihub)|[Code](https://github.com/ameraner/dsen2-cr)|
+|ISPRS|2020|[Thick cloud and cloud shadow removal in multitemporal images using progressively spatio-temporal patch group deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0924271620300423)|[Code](https://github.com/qzhang95/PSTCR)|
 |IGARSS|2021|[A Blind Cloud/Shadow Removal Strategy for Multi-Temporal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9554515)|-|
 |IEEE TGRS|2022|[Thick Cloud Removal in Optical Remote Sensing Images Using a Texture Complexity Guided Self-Paced Learning Method](https://ieeexplore.ieee.org/abstract/document/9730910)|-|
 |IEEE TGRS|2022|[A Unified Framework of Cloud Detection and Removal Based on Low-Rank and Group Sparse Regularizations for Multitemporal Multispectral Images](https://ieeexplore.ieee.org/document/9716079)|-|
