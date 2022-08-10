@@ -45,3 +45,4 @@ Collection of popular and reproducible works of cloud detection and removal.
 |IEEE GRSL|2022|[Cloud Removal in Optical Remote Sensing Imagery Using Multiscale Distortion-Aware Networks](https://ieeexplore.ieee.org/document/9686746)|-|
 |IEEE GRSL|2022|[Cloud Removal Using Multimodal GAN With Adversarial Consistency Loss](https://ieeexplore.ieee.org/document/9481173)|-|
 |RS|2022|[Deep Internal Learning for Inpainting of Cloud-Affected Regions in Satellite Imagery](https://www.mdpi.com/2072-4292/14/6/1342)|[Code](https://github.com/cidcom/satellite-cloud-removal-dip)|
+|RSE|2022|[Attention Mechanism-Based Generative Adversarial Networks for Cloud Removal in Landsat Images](https://www.sciencedirect.com/science/article/abs/pii/S0034425722000165)|[Code]([https://github.com/cidcom/satellite-cloud-removal-dip](http://jiasen.tech/documents/21/AMGAN-CR.rar))|
