@@ -8,6 +8,7 @@ Collection of popular and reproducible works of cloud detection and removal.
 * [38-Cloud](https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset)
 * [95-Cloud](https://github.com/SorourMo/95-Cloud-An-Extension-to-38-Cloud-Dataset)
 * [HRC-WHU](https://github.com/dr-lizhiwei/HRC_WHU)
+* [SPARCS](https://www.usgs.gov/landsat-missions/spatial-procedures-automated-removal-cloud-and-shadow-sparcs-validation-data)
 
 ## Related Papers
 |Pub|Year|Title|Code|
