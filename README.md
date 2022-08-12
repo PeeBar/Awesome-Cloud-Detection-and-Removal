@@ -16,7 +16,9 @@ Collection of popular and reproducible works of cloud detection and removal.
 |ICCV|2019|[Generative Adversarial Training for Weakly Supervised Cloud Matting](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zou_Generative_Adversarial_Training_for_Weakly_Supervised_Cloud_Matting_ICCV_2019_paper.pdf)|[Code](https://github.com/flyakon/Pytorch-CloudMattingGAN)|
 |IGARSS|2019|[Cloud-Net: An End-To-End Cloud Detection Algorithm for Landsat 8 Imagery](https://ieeexplore.ieee.org/document/8898776)|[Code](https://github.com/SorourMo/Cloud-Net-A-semantic-segmentation-CNN-for-cloud-detection)|
 |RSE|2019|[A cloud detection algorithm for satellite imagery based on deep learning](https://www.sciencedirect.com/science/article/pii/S0034425719301294)|[Code](https://github.com/JacobJeppesen/RS-Net)|
+|RS|2019|[CloudFCN: Accurate and Robust Cloud Detection for Satellite Imagery with Deep Learning](https://www.mdpi.com/2072-4292/11/19/2312)|-|
 |IEEE TGRS|2019|[CDnet: CNN-Based Cloud Detection for Remote Sensing Imagery](https://ieeexplore.ieee.org/document/8681238)|[Code](https://github.com/nkszjx/CDnetV2-pytorch-master)|
+|IEEE TGRS|2021|[DABNet: Deformable Contextual and Boundary-Weighted Network for Cloud Detection in Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9314019)|-|
 |IEEE JSTARS|2021|[Cloud and Cloud Shadow Segmentation for Remote Sensing Imagery Via Filtered Jaccard Loss Function and Parametric Augmentation](https://ieeexplore.ieee.org/document/9394710)|[-](https://github.com/SorourMo/95-Cloud-An-Extension-to-38-Cloud-Dataset)|
 |RSE|2021|[Deep network based on up and down blocks using wavelet transform and successive multi-scale spatial attention for cloud detection](https://www.sciencedirect.com/science/article/pii/S0034425721002017)|-|
 |IEEE TGRS|2022|[Dual-Branch Network for Cloud and Cloud Shadow Segmentation](https://ieeexplore.ieee.org/document/9775689)|-|
@@ -35,8 +37,12 @@ Collection of popular and reproducible works of cloud detection and removal.
 |CVPR|2016|[Removing Clouds and Recovering Ground Observations in Satellite Image Sequences via Temporally Contiguous Robust Matrix Completion](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Wang_Removing_Clouds_and_CVPR_2016_paper.html)|[Unofficial](https://github.com/AlexandreSev/Patch-Match)|
 |IEEE TGRS|2016|[Cloud Removal Based on Sparse Representation via Multitemporal Dictionary Learning](https://ieeexplore.ieee.org/abstract/document/7383295)|[Unofficial](https://github.com/NicolasBizzozzero/Inpainting)|
 |CVPRW|2017|[Filmy Cloud Removal on Satellite Imagery With Multispectral Conditional Generative Adversarial Nets](https://openaccess.thecvf.com/content_cvpr_2017_workshops/w18/html/Enomoto_Filmy_Cloud_Removal_CVPR_2017_paper.html)|[Code](https://github.com/enomotokenji/mcgan-cvprw2017-pytorch)|
+|IEEE GRSL|2018|[Haze and thin cloud removal via sphere model improved dark channel prior](https://ieeexplore.ieee.org/abstract/document/8500152)|-|
 |IGARSS|2018|[Cloud-Gan: Cloud Removal for Sentinel-2 Imagery Using a Cyclic Consistent Generative Adversarial Networks](https://ieeexplore.ieee.org/abstract/document/8519033)|-|
+|ISPRS|2018|[Cloud removal in remote sensing images using nonnegative matrix factorization and error correction](https://www.sciencedirect.com/science/article/abs/pii/S0924271618303484)|-|
+|ISPRS|2019|[Blind cloud and cloud shadow removal of multitemporal images based on total variation regularized low-rank sparsity decomposition](https://www.sciencedirect.com/science/article/abs/pii/S092427161930214X)|-|
 |Arxiv|2020|[Cloud Removal for Remote Sensing Imagery via Spatial Attention Generative Adversarial Network](https://arxiv.org/abs/2009.13015)|[Code](https://github.com/Penn000/SpA-GAN_for_cloud_removal)|
+|RS|2020|[Cloud removal with fusion of high resolution optical and SAR images using generative adversarial networks](https://www.mdpi.com/2072-4292/12/1/191)|-|
 |WACV|2020|[Cloud Removal in Satellite Images Using Spatiotemporal Generative Models](https://arxiv.org/abs/1912.06838)|[Code](https://github.com/ermongroup/STGAN)|
 |IEEE GRSL|2020|[Cloud-Aware Generative Network: Removing Cloud From Optical Remote Sensing Images](https://ieeexplore.ieee.org/document/8884095)|-|
 |IEEE TGRS|2020|[Single Image Cloud Removal Using U-Net and Generative Adversarial Networks](https://ieeexplore.ieee.org/document/9224941)|[Unofficial](https://github.com/Yonv1943/CloudRemoval)|
