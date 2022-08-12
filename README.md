@@ -27,10 +27,11 @@ Collection of popular and reproducible works of cloud detection and removal.
 # Cloud Removal
 
 ## Benchmark dataset
-* [RICE](https://github.com/BUPTLdy/RICE_DATASET), Arxiv
+* [RICE](https://github.com/BUPTLdy/RICE_DATASET)
 * GaoFen-1
 * [Landsat8](https://earthexplorer.usgs.gov/), [Download Toturial](https://zhuanlan.zhihu.com/p/457230765)
 * [Sentinel-2](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2), [Download Toturial](https://www.bilibili.com/read/cv15264657/)
+* [WHUS2-CR](https://github.com/Neooolee/WHUS2-CR)
 
 ## Related Papers
 |Pub|Year|Title|Code|
