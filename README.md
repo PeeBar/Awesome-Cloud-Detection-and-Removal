@@ -20,6 +20,7 @@ Collection of popular and reproducible works of cloud detection and removal.
 |IEEE TGRS|2019|[CDnet: CNN-Based Cloud Detection for Remote Sensing Imagery](https://ieeexplore.ieee.org/document/8681238)|[Code](https://github.com/nkszjx/CDnetV2-pytorch-master)|
 |RSE|2020|[Accurate cloud detection in high-resolution remote sensing imagery by weakly supervised deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0034425720304156?via%3Dihub)|[Project](https://skyearth.org/publication/project/WDCD/)|
 |IEEE TGRS|2021|[DABNet: Deformable Contextual and Boundary-Weighted Network for Cloud Detection in Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9314019)|-|
+|IEEE TGRS|2021|[Cloud Detection Method Using CNN Based on Cascaded Feature Attention and Channel Attention](https://ieeexplore.ieee.org/abstract/document/9576709)|-|
 |IEEE JSTARS|2021|[Cloud and Cloud Shadow Segmentation for Remote Sensing Imagery Via Filtered Jaccard Loss Function and Parametric Augmentation](https://ieeexplore.ieee.org/document/9394710)|[-](https://github.com/SorourMo/95-Cloud-An-Extension-to-38-Cloud-Dataset)|
 |RSE|2021|[Deep network based on up and down blocks using wavelet transform and successive multi-scale spatial attention for cloud detection](https://www.sciencedirect.com/science/article/pii/S0034425721002017)|-|
 |IEEE TGRS|2022|[Dual-Branch Network for Cloud and Cloud Shadow Segmentation](https://ieeexplore.ieee.org/document/9775689)|-|
