@@ -34,6 +34,7 @@ Collection of popular and reproducible works of cloud detection and removal.
 * [Sentinel-2](https://sentinels.copernicus.eu/web/sentinel/missions/sentinel-2), [Download Toturial](https://www.bilibili.com/read/cv15264657/)
 * [WHUS2-CR](https://github.com/Neooolee/WHUS2-CR)
 * [SEN12MS-CR](https://mediatum.ub.tum.de/1554803)
+* [WHU Cloud Dataset](http://gpcv.whu.edu.cn/data/WHU_Cloud_Dataset.html)
 
 ## Related Papers
 |Pub|Year|Title|Code|
@@ -50,6 +51,7 @@ Collection of popular and reproducible works of cloud detection and removal.
 |WACV|2020|[Cloud Removal in Satellite Images Using Spatiotemporal Generative Models](https://arxiv.org/abs/1912.06838)|[Code](https://github.com/ermongroup/STGAN)|
 |IEEE GRSL|2020|[Cloud-Aware Generative Network: Removing Cloud From Optical Remote Sensing Images](https://ieeexplore.ieee.org/document/8884095)|-|
 |IEEE TGRS|2020|[Single Image Cloud Removal Using U-Net and Generative Adversarial Networks](https://ieeexplore.ieee.org/document/9224941)|[Unofficial](https://github.com/Yonv1943/CloudRemoval)|
+|IEEE TGRS|2020|[Simultaneous Cloud Detection and Removal From Bitemporal Remote Sensing Images Using Cascade Convolutional Neural Networks]()|-|
 |ISPRS|2020|[Cloud removal in Sentinel-2 imagery using a deep residual neural network and SAR-optical data fusion](https://www.sciencedirect.com/science/article/pii/S0924271620301398?via%3Dihub)|[Code](https://github.com/ameraner/dsen2-cr)|
 |ISPRS|2020|[Thick cloud and cloud shadow removal in multitemporal images using progressively spatio-temporal patch group deep learning](https://www.sciencedirect.com/science/article/abs/pii/S0924271620300423)|[Code](https://github.com/qzhang95/PSTCR)|
 |IGARSS|2021|[A Blind Cloud/Shadow Removal Strategy for Multi-Temporal Remote Sensing Images](https://ieeexplore.ieee.org/abstract/document/9554515)|-|
